@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+build
+coverage
+test/coverage
+
+# Exclude compiled files
+# lib
+
+# Exclude IDE project folders
+.idea
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_STORE
