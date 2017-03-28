@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "highlightjs": "^9.8.0",
-    "iview": "^2.0.0-rc.4",
+    "iview": "^2.0.0-rc.6",
     "markdown-it-editor": "^1.1.4",
     "vue": "^2.2.2",
     "vue-echarts-v3": "^1.0.3",
